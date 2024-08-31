@@ -57,6 +57,8 @@
     <Folder Include="models\vosk\model\rnnlm\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".env" />
+    <Content Include=".gitattributes" />
     <Content Include=".gitignore" />
     <Content Include="models\silero\ffmpeg.exe" />
     <Content Include="models\silero\ffplay.exe" />
